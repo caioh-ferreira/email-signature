@@ -1,2 +1,2 @@
-# email-signature
-Simple HTML e-mail signature
+# Email signature
+Simple e-mail signature built with HTML
