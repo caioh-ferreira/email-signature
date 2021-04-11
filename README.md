@@ -1,2 +1,2 @@
 # Email signature
-Simple e-mail signature built with HTML
+Simple e-mail signature built with HTML.
